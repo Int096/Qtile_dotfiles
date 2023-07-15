@@ -1,8 +1,15 @@
 max-history=7
+max-visible=3
 sort=+time
 
 font=JetBrainsMono 10
 background-color=#45443C
 text-color=#D3C6AA
 border-color=#7FBBB3
+width=400
+height=200
+margin=15
+padding=10
+border-size=20
+border-radius=10
 
