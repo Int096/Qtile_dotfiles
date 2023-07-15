@@ -2,31 +2,18 @@
 
 
 ## My soft
-- Shell: fish
-- Web brower: chromium
-- File manager: thunar
-- Fetch: neofetch, [*moonfetch https://github.com/d4yr41n/moonfetch]
-- Messenger: kotatogram
-- Pdf-reader: evince
-- Differnt: notion
+- **Shell**: fish
+- **Web brower**: chromium
+- **File manager**: thunar
+- **Fetch**: neofetch, [moonfetch](https://github.com/d4yr41n/moonfetch)
+- **Messenger**: kotatogram
+- **Pdf-reader**: evince
+- **Differnt**: notion
 
-## Soft install
-### Yay install
+## Yay install
 
 ```
 git clone https://aur.archlinux.org/yay.git  
 cd yay  
 makepkg -si
 ```
-
-### Soft 
-
-```
-sudo pacman -S mako evince neofetch thunar chromium
-```
-
-```
-yay -S kotatogram-desktop-bin
-```
-
-
