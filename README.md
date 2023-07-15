@@ -1,4 +1,8 @@
-# My Qtile dotfiles
+# My Qtile dotfiles for Arch linux
+
+- Web brower: chromium
+- Fetch: neofetch, moonfetch
+
 ## Yay install
 
 ```
