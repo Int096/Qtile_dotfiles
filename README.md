@@ -10,8 +10,8 @@
 - Pdf-reader: evince
 - Differnt: notion
 
-### Soft install
-## Yay install
+## Soft install
+### Yay install
 
 ```
 git clone https://aur.archlinux.org/yay.git  
@@ -19,10 +19,10 @@ cd yay
 makepkg -si
 ```
 
-## Soft 
+### Soft 
 
 ```
-sudo pacman -S mako 
+sudo pacman -S mako evince neofetch thunar chromium
 ```
 
 ```
