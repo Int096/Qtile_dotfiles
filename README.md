@@ -1,8 +1,16 @@
 # My Qtile dotfiles for Arch linux
 
-- Web brower: chromium
-- Fetch: neofetch, moonfetch
 
+## My soft
+- Shell: fish
+- Web brower: chromium
+- File manager: thunar
+- Fetch: neofetch, moonfetch
+- Messenger: kotatogram
+- Pdf-reader: evince
+- Differnt: notion
+
+### Soft install
 ## Yay install
 
 ```
