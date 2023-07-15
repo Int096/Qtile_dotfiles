@@ -5,7 +5,7 @@
 - Shell: fish
 - Web brower: chromium
 - File manager: thunar
-- Fetch: neofetch, moonfetch
+- Fetch: neofetch, [*moonfetch https://github.com/d4yr41n/moonfetch]
 - Messenger: kotatogram
 - Pdf-reader: evince
 - Differnt: notion
